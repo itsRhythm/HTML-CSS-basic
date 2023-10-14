@@ -1,0 +1,44 @@
+body{
+margin-left: 20%;
+margin-right: 20%;
+border: 1px groove;
+font-family: 'Gabarito', sans-serif;
+}
+.top{
+    margin: 30px;
+    display: flex;
+}
+.mid{
+    margin: 30px;
+    display: flex;
+    margin-right: 5%;
+}
+.bottom{
+    margin: 30px;
+}
+.container{
+    margin-left: 10px;
+    margin-right: 10px;
+    display: flex;
+    justify-content: center;
+}
+.footer{
+    margin: 30px;
+}
+
+.card{
+    border: 1.5px groove ;
+    padding: 20px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+h1{
+    font-size: 40px;
+    color:rgb(83, 84, 86);
+}
+p{
+    color:rgb(83, 84, 86);
+}
+li{
+    color:rgb(83, 84, 86);    
+}
