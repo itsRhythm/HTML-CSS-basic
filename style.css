@@ -1,7 +1,7 @@
 body{
 margin-left: 20%;
 margin-right: 20%;
-border: 1px groove;
+border: 1px solid #00000042;
 font-family: 'Gabarito', sans-serif;
 }
 .top{
@@ -27,7 +27,7 @@ font-family: 'Gabarito', sans-serif;
 }
 
 .card{
-    border: 1.5px groove ;
+    border: 1px solid #00000042;
     padding: 20px;
     margin-right: 10px;
     margin-left: 10px;
